@@ -1,0 +1,10 @@
+D:\Projects\OsuBackgroundChanger\VisualStudio\Osu Background Changer\bin\Debug\Osu Background Changer.exe.config
+D:\Projects\OsuBackgroundChanger\VisualStudio\Osu Background Changer\bin\Debug\Osu Background Changer.exe
+D:\Projects\OsuBackgroundChanger\VisualStudio\Osu Background Changer\bin\Debug\Osu Background Changer.pdb
+D:\Projects\OsuBackgroundChanger\VisualStudio\Osu Background Changer\obj\Debug\Osu Background Changer.csprojAssemblyReference.cache
+D:\Projects\OsuBackgroundChanger\VisualStudio\Osu Background Changer\obj\Debug\Osu_Background_Changer.Form1.resources
+D:\Projects\OsuBackgroundChanger\VisualStudio\Osu Background Changer\obj\Debug\Osu_Background_Changer.Properties.Resources.resources
+D:\Projects\OsuBackgroundChanger\VisualStudio\Osu Background Changer\obj\Debug\Osu Background Changer.csproj.GenerateResource.cache
+D:\Projects\OsuBackgroundChanger\VisualStudio\Osu Background Changer\obj\Debug\Osu Background Changer.csproj.CoreCompileInputs.cache
+D:\Projects\OsuBackgroundChanger\VisualStudio\Osu Background Changer\obj\Debug\Osu Background Changer.exe
+D:\Projects\OsuBackgroundChanger\VisualStudio\Osu Background Changer\obj\Debug\Osu Background Changer.pdb
